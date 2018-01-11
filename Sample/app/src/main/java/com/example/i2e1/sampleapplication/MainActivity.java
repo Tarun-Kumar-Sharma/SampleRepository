@@ -37,6 +37,8 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Locale;
 
+//updating from testing_2
+
 public class MainActivity extends AppCompatActivity {
 
     private Timer mTimer;
