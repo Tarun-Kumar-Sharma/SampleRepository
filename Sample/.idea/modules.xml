@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SampleRepository.iml" filepath="$PROJECT_DIR$/SampleRepository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample.iml" filepath="$PROJECT_DIR$/Sample.iml" />
+      <module fileurl="file://D:\testing_git_2\SampleRepository\Sample\SampleRepository.iml" filepath="D:\testing_git_2\SampleRepository\Sample\SampleRepository.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\testing_git_2\SampleRepository\Sample\app\app.iml" filepath="D:\testing_git_2\SampleRepository\Sample\app\app.iml" />
     </modules>
   </component>
 </project>
